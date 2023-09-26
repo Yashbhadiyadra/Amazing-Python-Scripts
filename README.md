@@ -29,5 +29,9 @@ You can refer to the following articles on **_basics of Git and Github and also 
 - Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
 - Add Screenshots to help us know what this Script is all about.
 
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Terms and conditions for use, reproduction and distribution are under the [MIT License](https://opensource.org/license/mit/).
 
 <h1 align=center>Happy Coding 👨‍💻 </h1>
